@@ -1,0 +1,16 @@
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 28px;
+  color: limegreen;
+  margin-bottom: 32px;
+}
+
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 22px;
+  color: limegreen;
+}
+
+p {
+  text-align: left;
+}

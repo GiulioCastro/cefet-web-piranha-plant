@@ -1,43 +1,25 @@
 body {
-    margin-left: 10%;
-    margin-right: 10%;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 14px;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
 }
-
-h1 {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 28px;
-    color: limegreen;
-    margin-bottom: 32px;
-}
-
-p {
-    text-align: left;
-}
-
 #identificador-do-element {
-    border: 3px solid limegreen;
-    padding: 10px;
-    background-image: url('../imagens/fundo.png');
-}
-
-h2 {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 22px;
-    color: limegreen;
+  border: 3px solid limegreen;
+  padding: 10px;
+  background-image: url("../imagens/fundo.png");
 }
 
 #armadilhas-jaula {
-    border: 8px solid limegreen;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  border: 8px solid limegreen;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #armadilhas-succao {
-    border: 8px solid limegreen;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  border: 8px solid limegreen;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

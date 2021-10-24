@@ -6,13 +6,6 @@ body {
   background-image: url("../imagens/desenho-loucao.jpg");
 }
 
-h1 {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 28px;
-  color: limegreen;
-  margin-bottom: 32px;
-}
-
 table {
   margin-left: auto;
   margin-right: auto;
